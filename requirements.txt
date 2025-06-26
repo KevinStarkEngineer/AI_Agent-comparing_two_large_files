@@ -1,0 +1,19 @@
+# PDF 處理
+PyPDF2
+pdfplumber
+
+# 向量資料庫
+faiss-cpu
+
+# 語言模型 API
+openai
+
+# 分段與文字處理
+nltk
+tiktoken
+
+# dotenv 讀取
+python-dotenv
+
+# 進度條
+rich
